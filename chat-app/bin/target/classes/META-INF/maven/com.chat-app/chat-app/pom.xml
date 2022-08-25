@@ -15,8 +15,6 @@
   <description>Chat app</description>
   <properties>
     <java.version>17</java.version>
-    <maven.compiler.source>1.7</maven.compiler.source>
-    <maven.compiler.target>1.7</maven.compiler.target>
   </properties>
   <dependencies>
     <dependency>
