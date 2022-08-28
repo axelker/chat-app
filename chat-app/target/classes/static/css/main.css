@@ -17,17 +17,17 @@ body {
     font-size: 1rem;
     line-height: 1.58;
     color: #333;
-    background-color: #f4f4f4;
+    background:url(../img/back_chat.PNG);
     height: 100%;
 }
 
 body:before {
-    height: 50%;
+    height: 100%;
     width: 100%;
     position: absolute;
     top: 0;
     left: 0;
-    background: #128ff2;
+    background:url(../img/back_chat.PNG);
     content: "";
     z-index: 0;
 }
