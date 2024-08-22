@@ -1,0 +1,7 @@
+com\chatapp\chatapp\ChatAppApplication.class
+com\chatapp\chatapp\configuration\WebSocketConfiguration.class
+model\ChatMessage.class
+model\ChatMessage$MessageType.class
+com\chatapp\chatapp\controller\HomeController.class
+com\chatapp\chatapp\controller\ChatController.class
+listener\WebSocketEventListener.class
